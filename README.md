@@ -16,7 +16,7 @@ Anyone interested in getting started with Machine Learning, Deep Learning, or Na
 
 # References
 I have leveraged ChatGPT for guidance in terms of some concepts and to clarify doubts, both theoretical and code-based. However, I did not use ChatGPT to generate code. The most important points of reference for the project are as follows.
-1. TensorFlow tutorial about using basic text classification to perform sentiment analysis. Link [here]([https://www.tensorflow.org/tutorials/keras/regression](https://www.tensorflow.org/tutorials/keras/text_classification).
+1. TensorFlow tutorial about using basic text classification to perform sentiment analysis. Link [here](https://www.tensorflow.org/tutorials/keras/text_classification).
 2. TensorFlow tutorial about fine-tuning BERT to perform sentiment analysis. Link [here](https://www.tensorflow.org/text/tutorials/classify_text_with_bert).
 
 # Additional Notes
