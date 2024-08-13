@@ -22,5 +22,5 @@ I have leveraged ChatGPT for guidance in terms of some concepts and to clarify d
 # Additional Notes
 1. The dataset is available [here](http://cs.stanford.edu/people/alecmgo/trainingandtestdata.zip). If the dataset is taken down in the future, please feel free to reach out to me at ankanatwork@gmail.com if you would like to learn more about the data. However, I may not be able to share the dataset with you due to licensing restrictions.
 2. The project is a basic one in nature and is not currently being maintained.
-3. [Here](https://researchguy.in/twitter-sentiment-classification-using-tensorflow/) is the blog post covering this work.
+3. [Here](https://researchguy.in/twitter-sentiment-classification-using-tensorflow-and-tinybert/) is the blog post covering this work.
 
