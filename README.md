@@ -3,7 +3,7 @@ Classification of the sentiment of tweets in the Sentiment140 dataset using a li
 
 # About the project
 Classification of the sentiment (positive / negative) of tweets in the Sentiment140 dataset using TinyBERT.
-This is a Google Colab notebook to analyze and classify the sentiment of tweets in the Sentiment140 dataset. The data is first cleaned, normlized, and preprocessed. A simple TinyBERT model is used to implement the model for the binary classification of text. Training is performed across Tensor Processing Unit (TPU) cores using TensorFlow's distributed computing setup for TPUs. The model performs fairly well and achieves an accuracy of about 82%%.
+This is a Google Colab notebook to analyze and classify the sentiment of tweets in the Sentiment140 dataset. The data is first cleaned, normlized, and preprocessed. A simple TinyBERT model is used to implement the model for the binary classification of text. Training is performed across Tensor Processing Unit (TPU) cores using TensorFlow's distributed computing setup for TPUs. The model performs fairly well and achieves an accuracy of about 83%%.
 
 # Tools Used
 Tools and libraries used in this project include TensorFlow, Keras, Transformers, pandas, csv, NumPy, scikit-learn, Matplotlib, and seaborn.
@@ -16,8 +16,8 @@ Anyone interested in getting started with Machine Learning, Deep Learning, or Na
 
 # References
 I have leveraged ChatGPT for guidance in terms of some concepts and to clarify doubts, both theoretical and code-based. However, I did not use ChatGPT to generate code. The most important points of reference for the project are as follows.
-1. TensorFlow tutorial about using basic text classification to perform sentiment analysis. Link [here](https://www.tensorflow.org/tutorials/keras/text_classification).
-2. TensorFlow tutorial about fine-tuning BERT to perform sentiment analysis. Link [here](https://www.tensorflow.org/text/tutorials/classify_text_with_bert).
+1. TensorFlow tutorial about fine-tuning BERT to perform sentiment analysis. Link [here](https://www.tensorflow.org/text/tutorials/classify_text_with_bert).
+2. TensorFlow tutorial about using basic text classification to perform sentiment analysis. Link [here](https://www.tensorflow.org/tutorials/keras/text_classification).
 
 # Additional Notes
 1. The dataset is available [here](http://cs.stanford.edu/people/alecmgo/trainingandtestdata.zip). If the dataset is taken down in the future, please feel free to reach out to me at ankanatwork@gmail.com if you would like to learn more about the data. However, I may not be able to share the dataset with you due to licensing restrictions.
