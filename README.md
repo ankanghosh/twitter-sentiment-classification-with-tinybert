@@ -6,7 +6,7 @@ Classification of the sentiment (positive / negative) of tweets in the Sentiment
 This is a Google Colab notebook to analyze and classify the sentiment of tweets in the Sentiment140 dataset. The data is first cleaned, normalized, and preprocessed. TinyBERT is used to implement the model for the binary classification of text. Training is performed across Tensor Processing Unit (TPU) cores using TensorFlow's distributed computing setup for TPUs. The model performs fairly well and achieves an accuracy of about 83%.
 
 # Tools Used
-Tools and libraries used in this project include TensorFlow, Keras, Transformers, pandas, csv, NumPy, scikit-learn, Matplotlib, and seaborn.
+Tools and libraries used in this project include TensorFlow, Keras, Transformers, pandas, csv, scikit-learn, Matplotlib, and seaborn.
 
 # Who can benefit from the project?
 Anyone can use the project to get started with the basics of sentiment analysis or binary classification using text data and TensorFlow.
